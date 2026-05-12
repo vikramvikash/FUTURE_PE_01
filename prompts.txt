@@ -55,3 +55,40 @@ Writing Style Requirements:
 - Use emotionally engaging language
 - Make the copy realistic and conversion-focused
 - Ensure the content is website-ready and professional generate 
+
+--------------------------------------------------
+
+PROMPT 2 — SERVICES PAGE CONTENT
+
+Act as an expert website copywriter for modern local cafes.
+
+Create professional service page content for "Brew Haven Cafe".
+
+Business Context:
+Brew Haven Cafe is a cozy cafe designed for students, remote workers, and coffee lovers looking for premium coffee and a comfortable atmosphere.
+
+Target Audience:
+- Students
+- Remote workers
+- Coffee enthusiasts
+- Young professionals
+
+Generate website-ready service descriptions for these services:
+
+1. Premium Coffee
+2. Fresh Bakery
+3. Free WiFi & Workspace
+4. Fast Delivery
+5. Group Hangout Space
+
+For each service include:
+- short service title
+- engaging description
+- customer benefit
+
+Writing Style Requirements:
+- modern and friendly tone
+- simple but premium wording
+- natural human-like writing
+- avoid generic AI phrases
+- make the content persuasive and website-ready
