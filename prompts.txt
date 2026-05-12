@@ -1,1 +1,57 @@
+Act as an expert conversion-focused website copywriter for local cafe businesses.
 
+Your task is to create high-quality homepage copy for a modern cafe brand called "Brew Haven Cafe".
+
+Business Context:
+Brew Haven Cafe is a cozy modern cafe designed for students, remote workers, and coffee lovers who want a relaxing place to work, socialize, and enjoy handcrafted coffee.
+
+Target Audience:
+- College students searching for a peaceful study space
+- Remote workers looking for free WiFi and comfortable seating
+- Coffee enthusiasts who value premium handcrafted drinks
+- Young professionals who enjoy aesthetic cafe environments
+
+Brand Personality:
+- Warm
+- Friendly
+- Cozy
+- Modern
+- Premium but affordable
+- Welcoming and community-focused
+
+Primary Website Goal:
+Encourage visitors to:
+- visit the cafe
+- stay longer
+- order coffee and snacks
+- return regularly
+
+Generate the following sections:
+
+1. Hero Section
+- Main headline
+- Supporting subheadline
+- CTA button text
+
+2. About Brew Haven Cafe
+Write a short emotional introduction explaining the cafe experience and atmosphere.
+
+3. Why Customers Love Us
+Provide 5 customer-focused benefits in short website-friendly points.
+
+4. Customer Experience Section
+Describe the environment, emotions, comfort, and overall vibe customers experience inside the cafe.
+
+5. Final Call-To-Action Section
+Write a persuasive closing section encouraging users to:
+- visit today
+- order online
+- book a table
+
+Writing Style Requirements:
+- Sound natural and human-written
+- Avoid robotic AI wording
+- Keep language simple but premium
+- Use emotionally engaging language
+- Make the copy realistic and conversion-focused
+- Ensure the content is website-ready and professional generate 
