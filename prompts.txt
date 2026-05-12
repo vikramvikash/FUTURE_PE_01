@@ -125,3 +125,34 @@ Writing Requirements:
 - encourage customer action
 - avoid generic AI wording
 
+--------------------------------------------------
+
+PROMPT 4 — TONE ADAPTATION
+
+Act as an expert AI website copywriter.
+
+Rewrite cafe website copy in 3 different tones:
+
+1. Friendly & Casual
+2. Premium & Luxury
+3. Modern & Minimal
+
+Business Name:
+Brew Haven Cafe
+
+Target Audience:
+- students
+- remote workers
+- coffee lovers
+
+Generate:
+- Hero headline
+- Short subheadline
+- CTA line
+
+Requirements:
+- each tone should feel unique
+- keep content website-ready
+- avoid generic wording
+- maintain emotional engagement
+
