@@ -92,3 +92,36 @@ Writing Style Requirements:
 - natural human-like writing
 - avoid generic AI phrases
 - make the content persuasive and website-ready
+
+--------------------------------------------------
+
+PROMPT 3 — CTA GENERATION
+
+Act as a professional conversion-focused website copywriter.
+
+Generate persuasive CTA (Call-To-Action) sections for a modern cafe website called "Brew Haven Cafe".
+
+Business Context:
+Brew Haven Cafe is a cozy modern cafe designed for students, remote workers, and coffee lovers who enjoy premium coffee and relaxing environments.
+
+Target Audience:
+- Students
+- Remote workers
+- Coffee enthusiasts
+- Young professionals
+
+Generate these CTA sections:
+
+1. Visit Cafe CTA
+2. Order Online CTA
+3. Book a Table CTA
+4. Loyalty / Return CTA
+
+Writing Requirements:
+- short and persuasive
+- emotionally engaging
+- website-ready
+- modern and friendly tone
+- encourage customer action
+- avoid generic AI wording
+
